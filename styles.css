@@ -1,0 +1,23 @@
+body {
+  background-image: url("background.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#ghost {
+
+  position: fixed;
+  bottom: 40;
+  left: 40;
+}
+
+#ghosttext {
+
+  color: white;
+  position: fixed;
+  bottom: 155;
+  left: 120;
+  font-size: 30px;
+}
